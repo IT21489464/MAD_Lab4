@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MAD_LAb4</string>
+    <string name="Email1">Enter Email</string>
+    <string name="Email2">Enter Email</string>
+    <string name="Password1">Enter Password</string>
+    <string name="Password2">Enter Password</string>
 </resources>
